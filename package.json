@@ -11,12 +11,13 @@
     "url": "git+https://github.com/schris48/professional-readme.git"
   },
   "author": "schris48",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/schris48/professional-readme/issues"
   },
   "homepage": "https://github.com/schris48/professional-readme#readme",
   "dependencies": {
     "inquirer": "^8.2.4"
-  }
+  },
+  "devDependencies": {}
 }
